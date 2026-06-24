@@ -1,7 +1,7 @@
 <h1 align="center">Robson Noberto</h1>
 
 <p align="center">
-  Analista de Processos · J&T Express Filial SP<br/>
+  Analista de Dados · J&T Express Filial SP<br/>
   Desenvolvo sistemas internos que substituem planilhas por ferramentas reais de operação
 </p>
 
