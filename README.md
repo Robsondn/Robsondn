@@ -1,17 +1,21 @@
 <h1 align="center">Robson Noberto</h1>
 
 <p align="center">
-  Analista de Dados · J&T Express Filial SP<br/>
-  Desenvolvo sistemas internos que substituem planilhas por ferramentas reais de operação
+  <b>Analista de Dados · J&T Express Filial SP</b><br>
+  <i>Transformo planilhas em sistemas reais de operação logística</i>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=E2231A&center=true&vCenter=true&width=500&lines=Python+%7C+FastAPI+%7C+Selenium+%7C+Pandas;Dashboards+interativos+em+HTML%2FJS;Automação+com+visão+computacional;Sistemas+em+produção+real+todos+os+dias" alt="Typing SVG" />
 </p>
 
 ---
 
 ## Sobre mim
 
-Trabalho na maior operadora logística da Ásia com atuação no Brasil, desenvolvendo automações e sistemas de controle operacional que são usados em produção real todos os dias.
+Trabalho na maior operadora logística da Ásia com atuação no Brasil, desenvolvendo automações e sistemas de controle operacional usados em produção real todos os dias.
 
-Meu foco é transformar processos manuais em ferramentas que dão visibilidade e agilidade para equipes de operação logística — desde painéis em tempo real até robôs de automação com alertas automáticos.
+Foco em transformar processos manuais em ferramentas que dão **visibilidade e agilidade** para equipes de operação logística — desde painéis em tempo real até robôs de automação com alertas automáticos.
 
 ---
 
@@ -19,81 +23,68 @@ Meu foco é transformar processos manuais em ferramentas que dão visibilidade e
 
 **Backend & Automação**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-**Banco de dados**
+**Banco de Dados**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**Frontend**
+**Frontend & Deploy**
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Deploy & Integração**
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
 
 ## Projetos em destaque
 
-### [Controle de Pátio — J&T Express SP](https://github.com/Robsondn/frota-jt)
-Sistema web completo em produção real para controle de veículos em ~100 docas.  
-`FastAPI` `PostgreSQL` `JWT` `Feishu API` `Bootstrap` · **[▶ Ver sistema](https://frota-jt.onrender.com)**
+### 🚛 Painel de Manutenção da Frota — J&T Express SP
+Dashboard interativo de gastos e ordens de serviço da frota. Interface bilíngue PT/中文, gráficos Chart.js embutidos, deploy no Render.
 
-> Substituiu controle manual por planilhas · Múltiplos operadores simultâneos · SLA em tempo real · Alertas automáticos via Feishu · Bilíngue PT/中文
-
----
-
-### [BRDrive Robot](https://github.com/Robsondn/brdrive-robot)
-Robô que executa a cada 25 minutos: faz login no JMS, resolve CAPTCHA slider via visão computacional, extrai dados e dispara alertas para a equipe.  
-`Selenium` `OpenCV` `Feishu Bot API` `Pandas`
-
-> CAPTCHA resolvido automaticamente com template matching · Deduplicação inteligente de alertas · Roda 24h em máquina dedicada
+[![Live Demo](https://img.shields.io/badge/▶%20Ver%20ao%20vivo-jt--dashboard--manutencao.onrender.com-E2231A?style=for-the-badge)](https://jt-dashboard-manutencao.onrender.com)
+[![Repositório](https://img.shields.io/badge/Código-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Robsondn/jt-dashboard-manutencao)
 
 ---
 
-### [JMS Database](https://github.com/Robsondn/JMS_Database)
-Pipeline de extração diária do sistema JMS com banco local, interface Streamlit e assistente IA para consultas em linguagem natural.  
-`Streamlit` `SQLite` `SQLAlchemy` `Plotly`
+### 🏭 Controle de Pátio — J&T Express SP
+Sistema web para controle em tempo real de ~100 docas de carregamento/descarregamento. FastAPI + PostgreSQL + alertas automáticos via Feishu.
 
 ---
 
-### [KPI Motoristas](https://github.com/Robsondn/kpi-motoristas-jt)
-Dashboard de acompanhamento de KPIs operacionais com robôs de coleta automática do BRDrive.  
-`Python` `HTML5` `JavaScript`
+### 🤖 BRDrive Robot
+Robô de automação com Selenium + resolução de CAPTCHA por visão computacional (OpenCV). Executa tarefas repetitivas no sistema interno de forma autônoma.
 
 ---
 
-### [Dashboard Controle de Veículos — SP BRE](https://github.com/Robsondn/dashboard-veiculos-spbre)
-Dashboard bilíngue PT/中文 com controle de conformidade de lacres e tipos de operação.  
-`Streamlit` `Plotly` `Pandas` · deploy no Render
+### 📊 KPI Motoristas
+Dashboard de acompanhamento de KPIs operacionais por motorista. Atualização automática a partir de planilhas da operação.
 
 ---
 
-### [Gestão de Frotas](https://github.com/Robsondn/frotas-jt-express)
-Dashboards Power BI com atualização automática via Python para gestão de custos de frota terceirizada.  
-`Power BI` `Python` `Pandas`
+### 🗄️ JMS Database
+Pipeline de dados com Streamlit + interface de consulta via IA. Centraliza informações de múltiplas fontes para análise operacional.
 
 ---
+
+## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Robsondn&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robsondn&layout=compact&theme=dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Robsondn&show_icons=true&theme=default&hide_border=true&title_color=E2231A&icon_color=E2231A&text_color=1A1D24" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robsondn&layout=compact&hide_border=true&title_color=E2231A&text_color=1A1D24" height="160"/>
 </p>
 
 ---
 
-<p align="center">
-  <a href="mailto:robnoberto511@gmail.com">robnoberto511@gmail.com</a>
-</p>
+## Contato
+
+[![Gmail](https://img.shields.io/badge/robnoberto511%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:robnoberto511@gmail.com)
+[![GitHub](https://img.shields.io/badge/github.com/Robsondn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Robsondn)
