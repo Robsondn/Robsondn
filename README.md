@@ -34,7 +34,7 @@ Sistema web completo em produção real para controle de veículos em ~100 docas
 
 ---
 
-### [Painel de Manutenção da Frota](https://github.com/Robsondn/jt-dashboard-manutencao)
+### Painel de Manutenção da Frota
 Dashboard interativo de gastos, ordens de serviço e KPIs da frota de veículos.  
 `Python` `openpyxl` `Chart.js` `HTML5` · **[▶ Ver sistema](https://jt-dashboard-manutencao.onrender.com)**
 
