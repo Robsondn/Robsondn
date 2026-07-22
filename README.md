@@ -74,6 +74,14 @@ Dashboards Power BI com atualização automática via Python para gestão de cus
 
 ---
 
+### [Clariê — Sistema de Gestão Odontológica](https://github.com/Robsondn/clarie-painel)
+Painel web completo para clínicas odontológicas: cadastro de pacientes, agendamento, financeiro e gestão de usuários com API REST e autenticação JWT.  
+`FastAPI` `SQLAlchemy` `SQLite` `JWT` `bcrypt` · **[▶ Ver sistema](https://clarie-painel.onrender.com)**
+
+> CRUD completo de pacientes com soft-delete · Agenda por dentista · Roles admin/dentista · Migração SQLite → PostgreSQL em 1 linha · Deploy Render
+
+---
+
 <p align="center">
   <a href="mailto:robnoberto511@gmail.com">robnoberto511@gmail.com</a>
 </p>
