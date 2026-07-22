@@ -28,7 +28,7 @@ Foco em transformar processos manuais em ferramentas que dão **visibilidade e a
 
 ### [Controle de Pátio — J&T Express SP](https://github.com/Robsondn/frota-jt)
 Sistema web completo em produção real para controle de veículos em ~100 docas.  
-`FastAPI` `PostgreSQL` `JWT` `Feishu API` `Bootstrap` · 🔒 *Acesso restrito — entre em contato para demonstração*
+`FastAPI` `PostgreSQL` `JWT` `Feishu API` `Bootstrap` · **[▶ Ver sistema](https://frota-jt.onrender.com)** · 🔒 *Login necessário — solicite acesso por e-mail*
 
 > Substituiu controle manual por planilhas · Múltiplos operadores simultâneos · SLA em tempo real · Alertas automáticos via Feishu · Bilíngue PT/中文
 
@@ -76,7 +76,7 @@ Dashboards Power BI com atualização automática via Python para gestão de cus
 
 ### [Clariê — Sistema de Gestão Odontológica](https://github.com/Robsondn/clarie-painel)
 Painel web completo para clínicas odontológicas: cadastro de pacientes, agendamento, financeiro e gestão de usuários com API REST e autenticação JWT.  
-`FastAPI` `SQLAlchemy` `SQLite` `JWT` `bcrypt` · 🔒 *Acesso restrito — entre em contato para demonstração*
+`FastAPI` `SQLAlchemy` `SQLite` `JWT` `bcrypt` · **[▶ Ver sistema](https://clarie-painel.onrender.com)** · 🔒 *Login necessário — solicite acesso por e-mail*
 
 > CRUD completo de pacientes com soft-delete · Agenda por dentista · Roles admin/dentista · Migração SQLite → PostgreSQL em 1 linha · Deploy Render
 
